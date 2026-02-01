@@ -1,12 +1,31 @@
-# React + Vite
+🛠 IT Support Knowledge Base Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based IT Support Knowledge Base designed to help users quickly find solutions to common IT issues such as account management, hardware troubleshooting, software setup, and network problems.
 
-Currently, two official plugins are available:
+The application features category-wise navigation, detailed support articles, and a custom search system that ranks articles based on keyword relevance in titles and content. It is built using React with Vite for fast development and optimized performance, following a modular and reusable component architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Key Features
 
-## Expanding the ESLint configuration
+Category-based IT support documentation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Article detail pages with clean UI
+
+Custom keyword-based search and ranking
+
+Responsive design using modern CSS
+
+Client-side routing with React Router
+
+Optimized performance using React Hooks
+
+🧰 Tech Stack
+
+React.js
+
+Vite
+
+JavaScript (ES6+)
+
+HTML5 & CSS3
+
+React Router
