@@ -29,3 +29,7 @@ JavaScript (ES6+)
 HTML5 & CSS3
 
 React Router
+
+🎯 Use Case
+
+Ideal for internal IT departments, help desks, or as a knowledge base prototype for enterprise support systems.
